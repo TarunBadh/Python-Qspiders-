@@ -1,0 +1,8 @@
+Looping Statemnet :
+It is the control stattemmet which will control the flow of execution by repeating the same task 
+Types :
+1= while 
+2= for loop
+While Loop :
+It is used to execute the same set of instructions again and again until the condion become false
+Note : Initilization and updation is mandatory 

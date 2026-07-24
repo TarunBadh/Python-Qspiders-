@@ -1,0 +1,7 @@
+
+These are the conditions which are used to control the loop 
+
+Types :
+1)Break : break is the keyword used to terminate the loop by passing some condition  
+2)Continue : it is the keyword used to skip current iteration 
+3)pass : it is used to make invalid block as a valid block 
