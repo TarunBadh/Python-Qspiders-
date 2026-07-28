@@ -1,0 +1,24 @@
+For Loop : 
+--> It is the self iterative loop 
+Note :
+-->Initialzation and updation is not manadatory in for loop 
+--> We can use for loop for every collection datatype 
+Syntax :
+for var in collection:
+<--Tab Space> [Selection Block]
+
+Collections involved in For Loop are as follows : 
+1)string 
+2)list 
+3)tuple 
+4)Set 
+5)dictionary 
+6)range() function : It will generate the sequence of intergers between specified limits 
+   Syntax:
+       range(SV,EV-+1,UP)  
+
+Q) Difference between the while loop and for loop :
+For Loop :
+1)
+while loop:
+1)

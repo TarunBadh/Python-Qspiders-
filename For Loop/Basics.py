@@ -1,0 +1,6 @@
+print(range(1,11,1))
+a=range(1,11,1)
+print(a)
+print(list(range(16)))
+print(tuple(range(16)))
+print(set(range(16)))
