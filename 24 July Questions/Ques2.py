@@ -18,3 +18,13 @@ for i in Str :
     Dict['c']=Sum_c
 print(Dict)
 # Output is : {'a': 4, 'b': 2, 'c': 3}
+'''In= 'abacbaacc'
+out={}
+i = 0
+while i<len(In):
+    if In[i] not in out :
+        out[In[i]]=1 
+    else:
+        out[In[i]]+=1
+    i+=1
+print(out)'''

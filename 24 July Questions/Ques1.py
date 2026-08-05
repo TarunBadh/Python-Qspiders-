@@ -10,5 +10,7 @@ for i in List :
     else:
         Dict[i]=i[mid]
 print(Dict)
-#Output we get :- {'Push': 'Ph', 'maadi': 'a', 'kushi': 's', 'padi': 'pi'}
+#Output we get :- {'Push': 'Ph', 'maadi': 'a', 'kushi': 's', 'padi': 'pi'} 
+
+
         
